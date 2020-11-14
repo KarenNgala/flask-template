@@ -1,0 +1,7 @@
+virtual/
+*.pyc
+*__pycache__
+.vscode
+
+#config.py file with secret/api keys
+instance/ 
